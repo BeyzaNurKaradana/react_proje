@@ -1,5 +1,5 @@
 const Hero = () => (
-  <header class="py-5">
+  <header className="py-5">
     <div className="container px-lg-5">
       <div className="p-4 p-lg-5 bg-light rounded-3 text-center">
         <div className="m-4 m-lg-5">
