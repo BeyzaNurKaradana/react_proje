@@ -5,12 +5,14 @@ const Features = () => {
     <section className="pt-4">
       <div className="container px-lg-5">
         <div className="row gx-lg-5">
-          <Card />
-          <Card />
-          <Card />
-          <Card />
-          <Card />
-          <Card />
+          <Card title= {"hello"} text= {"naber"} iconName={"vignette"} />
+          <Card title= {"hello"} text= {"naber"} iconName={"vignette"} />
+          <Card title= {"hello"} text= {"naber"} iconName={"vignette"} />
+          <Card title= {"hello"} text= {"naber"} iconName={"vignette"} />
+          <Card title= {"hello"} text= {"naber"} iconName={"vignette"} />
+          <Card title= {"hello"} text= {"naber"} iconName={"vignette"} />
+
+          
 
 
           
