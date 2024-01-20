@@ -1,6 +1,6 @@
 const Navbar = () => {
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark shadow">
         <div className="container px-lg-5">
           <a className="navbar-brand" href="#!">
              Start React
