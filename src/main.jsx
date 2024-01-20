@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import './styles/style.scss'
+import './styles/style.scss' //scss yi projemizze dahil ettik
 import '../node_modules/bootstrap/dist/js/bootstrap.js';
 
 ReactDOM.createRoot(document.getElementById('root')).render(

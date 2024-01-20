@@ -3,7 +3,7 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container px-lg-5">
           <a className="navbar-brand" href="#!">
-            Start Bootstrap
+             Start React
           </a>
           <button
             className="navbar-toggler"
@@ -19,18 +19,18 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="#!">
-                  Home
+                <a className="nav-link active" target="_blank" rel="noreferrer" aria-current="page" href="https://react.dev/learn">
+                  Learn
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#!">
-                  About
+                <a className="nav-link active" target="_blank" rel="noreferrer" href="https://react.dev/community">
+                  Community
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#!">
-                  Contact
+                <a className="nav-link active" target="_blank" rel="noreferrer" href="https://react.dev/blog">
+                  Blog
                 </a>
               </li>
             </ul>
